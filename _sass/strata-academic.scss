@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap");
 
 /*
   Strata by HTML5 UP
@@ -126,10 +127,11 @@ input, select, textarea {
     }
 
   body, input, select, textarea {
-    color: #a2a2a2;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-    font-size: 16pt;
-    font-weight: 400;
+    color: #000000;
+    /*font-family: "Source Sans Pro", Helvetica, sans-serif;*/
+    font-family: "Montserrat", sans-serif;
+    font-size: 18pt;
+    font-weight: 300;
     line-height: 1.75em;
   }
 
@@ -150,7 +152,7 @@ input, select, textarea {
     }
 
   strong, b {
-    color: #787878;
+    color: #000000;
     font-weight: 400;
   }
 
@@ -163,8 +165,10 @@ input, select, textarea {
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color: #787878;
-    font-weight: 400;
+    color: #000000;
+     /*font-family: "Montserrat", sans-serif;*/
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
     line-height: 1em;
     margin: 0 0 1em 0;
   }
@@ -180,7 +184,7 @@ input, select, textarea {
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.5em;
   }
 
@@ -2077,7 +2081,7 @@ input, select, textarea {
       -webkit-transition: opacity 0.2s ease-in-out;
       -ms-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
-      background: url("../img/bg.jpg");
+    /*  background: url("../img/bg.jpg"); */
       border-radius: 0.35em;
       content: '';
       display: block;
@@ -2122,7 +2126,7 @@ input, select, textarea {
       }
 
       .image.thumb:hover:before {
-        background: url("../img/bg.jpg"), url("../img/bg.jpg");
+       /* background: url("../img/bg.jpg"), url("../img/bg.jpg"); */
         opacity: 1.0;
       }
 
@@ -2162,7 +2166,7 @@ input, select, textarea {
       }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 8px !important;
     }
 
       .image.avatar:before {
@@ -2170,8 +2174,9 @@ input, select, textarea {
       }
 
       .image.avatar img {
-        border-radius: 100%;
+       border-radius: 8px;
         width: 100%;
+         object-fit: cover;
       }
 
 /* List */
@@ -2619,13 +2624,13 @@ input, select, textarea {
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
     justify-content: space-between;
-    background-color: #1f1815;
+    background-color: #0b3d2e;
     background-attachment: scroll,                scroll;
-    background-image: url("../img/bg.jpg");
+   /* background-image: url("../img/bg.jpg");*/
     background-position: top left,              top left;
     background-repeat: repeat,                no-repeat;
     background-size: auto,                150%;
-    color: rgba(255, 255, 255, 0.5);
+    color: #ffffff;
     height: 100%;
     left: 0;
     padding: 8em 4em;
@@ -3106,7 +3111,7 @@ input, select, textarea {
       #footer {
         background-attachment: scroll;
         background-color: #1f1815;
-        background-image: url("../img/bg.jpg");
+       /* background-image: url("../img/bg.jpg");*/
         background-position: top left,            bottom center;
         background-repeat: repeat,              no-repeat;
         background-size: auto,              cover;
