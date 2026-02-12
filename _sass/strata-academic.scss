@@ -2079,7 +2079,7 @@ input, select, textarea {
       -webkit-transition: opacity 0.2s ease-in-out;
       -ms-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
-      background: url("../img/bg.jpg");
+    /*  background: url("../img/bg.jpg"); */
       border-radius: 0.35em;
       content: '';
       display: block;
@@ -2124,7 +2124,7 @@ input, select, textarea {
       }
 
       .image.thumb:hover:before {
-        background: url("../img/bg.jpg"), url("../img/bg.jpg");
+       /* background: url("../img/bg.jpg"), url("../img/bg.jpg"); */
         opacity: 1.0;
       }
 
@@ -2623,7 +2623,7 @@ input, select, textarea {
     justify-content: space-between;
     background-color: #0b3d2e;
     background-attachment: scroll,                scroll;
-    background-image: url("../img/bg.jpg");
+   /* background-image: url("../img/bg.jpg");*/
     background-position: top left,              top left;
     background-repeat: repeat,                no-repeat;
     background-size: auto,                150%;
@@ -3108,7 +3108,7 @@ input, select, textarea {
       #footer {
         background-attachment: scroll;
         background-color: #1f1815;
-        background-image: url("../img/bg.jpg");
+       /* background-image: url("../img/bg.jpg");*/
         background-position: top left,            bottom center;
         background-repeat: repeat,              no-repeat;
         background-size: auto,              cover;
