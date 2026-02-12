@@ -25,7 +25,7 @@ I am a fourth-year PhD student in the Statistical Science department at Duke Uni
    <br>
    St. Xavier's College (Autonomous college under Calcutta University), India
 
-## Teaching
+## Teaching Assistant Experience
    - **STA 210: Regresssion Analysis**, Spring 2023
       <br>
      Instructor: [Yue Jiang](https://www.yue-jiang.com)
