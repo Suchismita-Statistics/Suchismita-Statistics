@@ -14,7 +14,9 @@ I grew up in Kolkata, India, where I also completed my undergraduate and master'
   <br>
   **Suchismita Roy**, Alexander A. Fisher, Jason Xu
   <br>
-  [axXiv](https://arxiv.org/abs/2602.04855) [R package](git@github.com:Suchismita-Statistics/DSA.CountData.git)
+  [axXiv](https://arxiv.org/abs/2602.04855)
+  <br>
+  [R package](git@github.com:Suchismita-Statistics/DSA.CountData.git)
 
 ## Education
 - **Ph.D. in Statistics, 2022 - 2027 (Expected)**
