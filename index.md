@@ -16,24 +16,33 @@ I am a fourth-year PhD student in the Statistical Science department at Duke Uni
 
 ## Education
 - **Ph.D. in Statistics, 2022 - 2027 (Expected)**
+   <br>
    Duke University, United States
 - **Master's in Statistics, 2020 - 2022**
+   <br>
   Indian Institute of Technology Kanpur, India
 - **B.Sc. in Statistics, 2017 - 2020**
+   <br>
    St. Xavier's College (Autonomous college under Calcutta University), India
 
 ## Teaching
    - **STA 210: **, Spring 2023
+      <br>
      Instructor: [Yue Jiang](https://www.yue-jiang.com)
    - **STA 211: **, Fall 2023
+      <br>
      Instructor: [Miheer Dewaskar](https://miheerdewaskar.com)
    - **STA 532: **, Spring 2024
+      <br>
      Instructor: [Surya Tokdar](http://www2.stat.duke.edu/~st118/)
    - **STA 310: **, Spring 2025
+      <br>
      Instructor: [Rebecca Steorts](https://resteorts.github.io)
    - **STA 198CNL: **, Fall 2025
+      <br>
      Instructor: [Yue Jiang](https://www.yue-jiang.com)
    - **STA 332: **, Spring 2026
+      <br>
      Instructor: [Sifan Liu](https://liusf15.github.io/index.html)
 
 ## Conferences and Workshops
