@@ -4,6 +4,7 @@ layout: homepage
 ## Welcome
 
 I am a fourth-year PhD student in the Statistical Science department at Duke University. I am currently working in Epidemiology and Phylodynamic Inference with Dr. [Jason Xu](https://jasonxu90.github.io) and Dr. [Alexander A. Fisher](https://athos00.github.io). I am specifically interested in developing methodologies within a likelihood-based framework. I am interested in identifying how we can improve the inference of epidemic parameters when we additionally have sequence 
+During my Master's, I was fortunate to work with Dr. Dootika Vats, when my interest in research was largely developed.
 
 
 ## Publications
